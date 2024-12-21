@@ -1,5 +1,10 @@
 # Free Livepeer Inference Endpoints For Eliza
-Use any of the following endpoints to run inference on Eliza for free.
+Quick Start
+1) Make sure `IMAGE_GEN=TRUE` is set in your .env file.
+2) Make sure to add `"imageModelProvider": "livepeer"` to your character file.
+[![Titan-Node](https://raw.githubusercontent.com/Titan-Node/Titan-Node.github.io/refs/heads/main/livepeer-settings.png)]([https://github.com/Titan-Node](https://github.com/Titan-Node))
+
+Use any of the following endpoints to run image inference on Eliza for free.
 
 
 ## Hosted By Titan Node (Free Endpoint)

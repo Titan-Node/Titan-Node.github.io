@@ -26,7 +26,7 @@ Use any of the following endpoints to run inference on Eliza for free.
 
 
 # Available Models
-Visit https://ai-generator.livepeer.cloud/ to see a list of models currently available on the Livepeer network under the Network Capabilities tab.
+Visit [https://ai-generator.livepeer.cloud/](https://titan-node.github.io/) to see a list of models currently available on the Livepeer network under the Network Capabilities tab.
 **Here is a list below that can be used:**
 
 `ByteDance/SDXL-Lightning` (default)

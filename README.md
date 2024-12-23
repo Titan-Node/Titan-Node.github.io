@@ -36,7 +36,7 @@ Use any of the following endpoints to run image inference on Eliza for free.
 # Available Models For Free
 **LLM (text)**
 
-`meta-llama--Meta-Llama-3.1-8B-Instruct` (default)
+`meta-llama/Meta-Llama-3.1-8B-Instruct` (default)
 
 **Image**
 

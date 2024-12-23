@@ -3,7 +3,7 @@ Quick Start
 
 1) Make sure `IMAGE_GEN=TRUE` is set in your .env file.
    
-3) Make sure to add `"imageModelProvider": "livepeer"` to your character file.
+2) Make sure to add `"imageModelProvider": "livepeer"` to your character file.
    
 [![Titan-Node](https://raw.githubusercontent.com/Titan-Node/Titan-Node.github.io/refs/heads/main/livepeer-settings.png)]([https://github.com/Titan-Node](https://github.com/Titan-Node))
 
@@ -41,7 +41,3 @@ Use any of the following endpoints to run image inference on Eliza for free.
 **Image**
 
 `ByteDance/SDXL-Lightning` (default)
-
-`stabilityai/stable-diffusion-3.5-medium`
-
-`kandinsky-community/kandinsky-3`

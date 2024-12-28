@@ -44,6 +44,20 @@ IMAGE_GEN=TRUE
 
 `ByteDance/SDXL-Lightning` (default)
 
+`SG161222/RealVisXL_V4.0`
+
+`SG161222/RealVisXL_V4.0_Lightning`
+
+`black-forest-labs/FLUX.1-dev`
+
+`black-forest-labs/FLUX.1-schnell`
+
+`stabilityai/stable-diffusion-3.5-large`
+
+`stabilityai/stable-diffusion-3-medium-diffusers`
+
+`stabilityai/stable-diffusion-3.5-medium`
+
 ## Want to host your own decentralized inference endpoint? Follow these guides
 
 [Livepeer Docs - Start Gateway](https://docs.livepeer.org/ai/gateways/start-gateway)

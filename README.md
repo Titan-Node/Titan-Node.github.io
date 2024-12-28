@@ -22,12 +22,12 @@ https://dream-gateway.livepeer.cloud
 IMAGE_GEN=TRUE
 ```
    
-2) Make sure to add `ModelProvider": "livepeer"` and `"imageModelProvider": "livepeer"` to your character file.
+2) Make sure to add `"imageModelProvider": "livepeer"` to your character file.
 
 ```
     "name": "",
     "clients": [],
-    "modelProvider": "livepeer",
+    "modelProvider": "openai",
     "imageModelProvider": "livepeer",
     "settings": {},
     "plugins": [],

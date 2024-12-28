@@ -1,5 +1,20 @@
-# Free Livepeer Inference Endpoints For Eliza
-Quick Start
+# Free Hosted Livepeer Inference Endpoints For Eliza
+
+Use any of the following endpoints to run inference on Eliza for free.
+
+By Titan Node
+
+```
+https://gateway.livepeer-eliza.com
+```
+
+By Livepeer AI SPE
+
+```
+https://dream-gateway.livepeer.cloud
+```
+
+## Quick Start
 
 1) For image generation, make sure `IMAGE_GEN=TRUE` is set in your .env file.
 ```
@@ -18,11 +33,6 @@ IMAGE_GEN=TRUE
     "plugins": [],
 ```
 
-Use any of the following endpoints to run inference on Eliza for free.
-
-## Hosted By Livepeer AI SPE (Free Endpoint)
-
-`https://dream-gateway.livepeer.cloud`
 
 ## Available Models For Free
 

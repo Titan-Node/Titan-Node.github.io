@@ -1,3 +1,5 @@
+Need help? Reach us on [Discord](https://discord.gg/cTGZSwfzwt) - Tag `titannode`, `de_fi_ne` or `chasemedia`
+
 # Free Hosted Livepeer Inference Endpoints For Eliza
 
 Use any of the following endpoints to run inference on Eliza for free.

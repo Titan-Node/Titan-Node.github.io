@@ -2,16 +2,16 @@
 
 Use any of the following endpoints to run inference on Eliza for free.
 
-By Titan Node
-
-```
-https://gateway.livepeer-eliza.com
-```
-
-By Livepeer AI SPE
+By Livepeer AI SPE (Recommended)
 
 ```
 https://dream-gateway.livepeer.cloud
+```
+
+By Titan Node (Alternative)
+
+```
+https://gateway.livepeer-eliza.com
 ```
 
 ## Quick Start

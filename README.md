@@ -1,5 +1,7 @@
 Need help? Reach us on [Discord](https://discord.gg/cTGZSwfzwt) - Tag `titannode`, `de_fi_ne` or `chasemedia`
 
+<img src="https://raw.githubusercontent.com/Titan-Node/Titan-Node.github.io/refs/heads/main/Livepeer-Eliza-Mascot-Docs.png" alt="GitHub Logo" width="100%"/>
+
 # Free Hosted Livepeer Inference Endpoints For Eliza
 
 Use any of the following endpoints to run inference on Eliza for free.

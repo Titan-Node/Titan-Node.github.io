@@ -6,7 +6,7 @@ Need help? Reach us on [Discord](https://discord.gg/cTGZSwfzwt) - Tag `titannode
 
 Use any of the following endpoints to run inference on Eliza for free.
 
-By Livepeer AI SPE (Recommended)
+By Livepeer Cloud SPE (Recommended)
 
 ```
 https://dream-gateway.livepeer.cloud

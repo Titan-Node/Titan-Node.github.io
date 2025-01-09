@@ -32,7 +32,7 @@ Edit your character file with the following:
     "plugins": [],
 ```
 
-2) Add `"imageModelProvider": "livepeer"` to your character file for using other text Generation providers.
+2) Add `"imageModelProvider": "livepeer"` to your character file for using Livepeer to generate images only.
 
 ```
     "name": "",

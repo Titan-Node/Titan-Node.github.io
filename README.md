@@ -50,6 +50,8 @@ Edit your character file with the following:
 
 `meta-llama/Meta-Llama-3.1-8B-Instruct` (default)
 
+`meta-llama/Llama-3.3-70B-Instruct`
+
 **Image**
 
 `ByteDance/SDXL-Lightning` (default)

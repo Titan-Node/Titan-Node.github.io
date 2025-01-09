@@ -20,13 +20,19 @@ https://gateway.livepeer-eliza.com
 
 ## Quick Start
 
-1) For image generation, make sure `IMAGE_GEN=TRUE` is set in your .env file.
+Edit your character file with the following:
+
+1) Use Livepeer for all inference (automatically does text and image generation)
+
 ```
-# Feature Flags
-IMAGE_GEN=TRUE
+    "name": "",
+    "clients": [],
+    "modelProvider": "livepeer",
+    "settings": {},
+    "plugins": [],
 ```
-   
-2) Make sure to add `"imageModelProvider": "livepeer"` to your character file.
+
+2) Add `"imageModelProvider": "livepeer"` to your character file for using other text Generation providers.
 
 ```
     "name": "",

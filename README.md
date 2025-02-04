@@ -4,7 +4,7 @@ Need help? Reach us on [Discord](https://discord.gg/cTGZSwfzwt) - Tag `titannode
 
 # Free LLM and Image Inference For Eliza
 
-[*Earn $100 in crypto for following our tutorial!*](https://medium.com/@titan-node/earn-100-for-building-an-ai-agent-with-livepeer-0abe3ffd736a)
+[*Earn $100 in crypto for following our tutorial!*](https://mirror.xyz/agent-spe.eth/oxs8VxEvKN88IeTwD-YQMucoDGqfNRz_mIlbUKkwOTg)
 
 Use any of the following endpoints to run inference on Eliza for free.
 
